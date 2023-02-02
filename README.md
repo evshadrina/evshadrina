@@ -2,7 +2,7 @@
 https://events.webinar.ru/12292079/425789920
 
 02.02.2023 группа8 Семинар2 Разработка web приложений Шадрина ЕВ с с 13-00 до 16-00
-https://events.webinar.ru/12292079/1401942525
+https://us02web.zoom.us/j/82832317528?pwd=STdkNFAvbk9QdW5ZZk9SWW5TS0hjUT09
 
 
 
