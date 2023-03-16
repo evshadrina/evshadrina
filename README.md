@@ -1,3 +1,8 @@
+Лекция консультация 16 марта c 9-30 до 10-50
+https://us02web.zoom.us/j/82727950433
+
+
+
 Итоговое задание к 23 марта
 https://vmarshirov.github.io/WebApplicationsDevelopment/task1.html
 ______________________________________________________
