@@ -1,3 +1,8 @@
+25 мая 13.00 семинар гр8
+https://us04web.zoom.us/j/79211415622?pwd=iAz6xoT47Iasy91IpwcSa1QrGviETx.1
+
+
+
 25 мая 9.30 семинар, гр7 все вместе с Маршировым ВВ, тема О хостинге на reg.ru
 ссыль  вот тут
 https://telemost.yandex.ru/j/15914217512632
