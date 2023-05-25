@@ -1,6 +1,6 @@
 25 мая 9.30 семинар, гр7 все вместе с Маршировым ВВ, тема О хостинге на reg.ru
 ссыль  вот тут
-https://github.com/vmarshirov/WebApplicationsDevelopment
+https://telemost.yandex.ru/j/15914217512632
 
 
 18 мая лекция в 9-30 https://us02web.zoom.us/j/84648074541
