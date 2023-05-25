@@ -1,5 +1,5 @@
 25 мая 13.00 семинар гр8
-https://us04web.zoom.us/j/79211415622?pwd=iAz6xoT47Iasy91IpwcSa1QrGviETx.1
+https://us02web.zoom.us/j/86288606914
 
 
 
