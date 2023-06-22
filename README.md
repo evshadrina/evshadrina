@@ -1,3 +1,5 @@
+22/06/2023 экз гр7 гр8 9-30 - 10-50 https://telemost.yandex.ru/j/97485427219550
+
 11:00 новая ссыль
 https://telemost.yandex.ru/j/69576146899001
 
