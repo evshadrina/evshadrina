@@ -2,7 +2,8 @@
 на 1 файле расположить 3 картинки
 каждая картинка кликабельная  - открывает ссылку на соответ файл. ссылка1 -открывает картинку1, ссылкаN- открывает картинкуN
 картинка помещается внутрь <figure>
- для figere описать свойства через стили css.
+ для figere описать свойства через стили css. в каждом файле с большой картинкой подключить стили в разделе <head>
+  <link rel="stylesheet" href="catsstyle.css">
 # вставка спец-символов
 #https://seo-studio.pro/blog/special-characters-html5-and-css3/
 #https://developer.mozilla.org/ru/docs/Web/HTML/Element/figcaption
