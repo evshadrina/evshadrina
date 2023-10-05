@@ -1,0 +1,89 @@
+<HTML lang="ru">
+
+  <HEAD>
+    <!-- Meta http equivalent was here                                                     -->
+    <TITLE>”гадайка</TITLE>
+  </HEAD>
+
+  <BODY bgcolor="#DFD8C5" text="black">
+
+    <H1>”гадайка</H1>
+    <HR>
+   <SCRIPT language=JavaScript>
+   <!--
+
+     // ѕроверка num на целое число из [a,b]
+     // ¬озвращает true, если num хорошее,
+     // false - в противном случае.
+     function IsNum(num, a, b)
+     {
+       var ret = true; // возвращаемое значение
+       // проверка на пустую строку
+       if (num == "") ret = false;
+       else // проверка на цифры
+         for(var i=0; i<num.length; i++)
+           if(num.charAt(i)<"0" || num.charAt(i)>"9") {ret=false; break;}
+       // проверка на интервал
+       if (ret) ret = a<=parseInt(num,10) && parseInt(num,10)<=b;
+       return ret;
+     }
+
+     // »гра ”гадайка
+     function FindNum()
+     {
+       var a = 1;      // начало интервала
+       var b = 50;     // конец интервала
+       // √енерация случайного числа
+       var number = Math.floor(a + (b-a+1)*Math.random());
+       var answer = 0; // ответ пользователя
+       var step = 0;   // число ответов пользователя
+       alert ("«адумано число от "+a+" до "+b+". ѕопробуйте его отгадать!");
+
+       // цикл игры
+       while (answer != number)
+       {
+          // ввод числа пользователя
+          answer = prompt("„исло в ["+a+" , "+b+"] ¬аш ход:", "");
+
+          // проверка на досрочное окончание игры
+          if (answer == null) break;
+
+          // проверка достоверности введенных данных
+
+          if (IsNum(answer, a, b))
+          {
+            answer = parseInt(answer,10);
+            // анализ введенного пользователем числа
+            if      (answer < number)
+               {alert("¬аше число меньше задуманного!"); a = answer;}
+            else if (answer > number)
+               {alert("¬аше число больше задуманного!"); b = answer;}
+            // увеличиваем счетчик ответов на 1
+            step++;
+          }
+          else
+          {
+            alert ("ќшибка при вводе числа");
+            answer = 0;
+            // «амечание. Ќекоторые браузеры выдают сообщение об ошибке
+            // при проверке answer != number, если answer - не число.
+            // ƒля подавления такого сообщения использовано присваивание
+            // answer = 0;
+          }
+       }
+       // игра закончена
+       if (answer != null)
+          alert("¬ы угадали число " + number + " за " + step + " шагов!");
+     }
+
+     // «апуск игры
+     FindNum()
+
+    //-->
+   </SCRIPT>
+    <P>
+      Игра закончена!
+     </p>
+  </BODY>
+
+</HTML>

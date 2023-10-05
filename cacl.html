@@ -1,0 +1,36 @@
+<html>
+
+<script>
+function calc()
+{
+   if (f.znak.value=="+")
+     f.res.value= parseFloat(document.f.num1.value) + parseFloat(document.f.num2.value);
+   if (f.znak.value=="-")
+     f.res.value= parseFloat(document.f.num1.value) - parseFloat(document.f.num2.value);
+    if (f.znak.value=="*")
+     f.res.value= parseFloat(document.f.num1.value) * parseFloat(document.f.num2.value);
+   
+}
+</script>
+<p> пример </p>
+
+<form name="f">
+<input type="text" name="num1" value="0">
+
+
+<select name="znak">
+	<OPTION value="+">+</OPTION> 
+	<OPTION value="-">-</OPTION> 
+	<OPTION value="*">*</OPTION> 
+	<OPTION value="*">^2</OPTION> 
+</select>
+
+<input type="text" name="num2" value="0">
+<p> = </p>
+<input type="text" name="res" value="0">
+
+<input type=button value="Вычислить" onclick=calc()> 
+ 
+</form>
+
+</html>
