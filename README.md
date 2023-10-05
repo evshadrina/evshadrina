@@ -1,3 +1,7 @@
+пересдача Шадрина
+https://telemost.yandex.ru/j/74474643680768305728108298295786025047
+
+
 https://evshadrina.github.io/evshadrina/sem1.html
 https://evshadrina.github.io/evshadrina/calc.html
 https://evshadrina.github.io/evshadrina/ugad.html
