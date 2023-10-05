@@ -1,4 +1,6 @@
-https://evshadrina.github.io/evshadrina/паспорт.html
+https://evshadrina.github.io/evshadrina/sem1.html
+https://evshadrina.github.io/evshadrina/calc.html
+https://evshadrina.github.io/evshadrina/ugad.html
 
 
 4 октября 13:00  - 14:20 
