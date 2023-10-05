@@ -1,3 +1,6 @@
+https://evshadrina.github.io/evshadrina/паспорт.html
+
+
 4 октября 13:00  - 14:20 
 Ссылка на видеовстречу: https://telemost.yandex.ru/j/78555424965664631538847952388527817367
 
