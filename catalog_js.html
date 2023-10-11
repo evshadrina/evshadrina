@@ -1,0 +1,93 @@
+<html>
+	<head>
+		<meta http-equiv="Content-Type" CONTENT="text/html; charset=utf-8">
+		<title>Astrodroid market</title>
+		<link rel="stylesheet" type="text/css" href="css/catalog.css">
+		<link rel="stylesheet" type="text/css" href="fancybox/jquery.fancybox.css">
+
+		
+		<script type="text/javascript">
+				function calc() {
+	    		var result = 0;
+	    		if (document.getElementById("model1").checked)
+	    			result += parseInt(document.form1.model1_price.value.slice(0, document.form1.model1_price.value.indexOf(" ")));
+	    		if (document.getElementById("model2").checked)
+	    			result += parseInt(document.form1.model2_price.value.slice(0, document.form1.model2_price.value.indexOf(" ")));
+	    		if (document.getElementById("model3").checked)
+	    			result += parseInt(document.form1.model3_price.value.slice(0, document.form1.model3_price.value.indexOf(" ")));
+	    		if (document.getElementById("model4").checked)
+	    			result += parseInt(document.form1.model4_price.value.slice(0, document.form1.model4_price.value.indexOf(" ")));
+	    		form1.sum.value = result;
+    		}
+		</script>
+	</head>
+
+	<body>
+		<div id="table_container">
+			<form name="form1">
+			<table cellspacing="0">
+				<tr>
+					<th></th>
+					<th>Модель</th>
+					<th>Фото</th>
+					<th>Характеристики</th>
+					<th>Цена</th>
+				</tr>
+					
+				<tr>
+					<td><input id="model1" type="checkbox" name="select" onclick=calc()></td>
+					<td class="model">R2-D2</td>
+					<!-- class galery нужен для открытия картинок в модальном окне -->
+					<td><a class="galery" href="img/r2-d2.jpg"><img src="img/r2-d2.jpg" width="100"></a></td>
+					<td>Высота 0,96 метра<br>
+						Масса 32 килограмма<br>
+						Цвет сенсора Красный<br>
+						Оснащение: разъем для перезарядки энергии, ракетные ускорители, моторизованные вездеходные гусеницы, выдвижная третья нога, циркулярная пила, электропика, фузионный резак, базовая пила, голографический проектор, поднос с напитками (только на парусной барже)</td>
+					<td><input class="price" type="text" name="model1_price" value="4000 кредитов" size="10" readonly></td>
+				</tr>
+
+				<tr>
+					<td><input id="model2" type="checkbox" name="select" onclick=calc()></td>
+					<td class="model">R3-D</td>
+					<td><a class="galery" href="img/r3-d.jpg"> <img src="img/r3-d.jpg" width="100"></td>
+					<td>Высота: 0,96 метра<br>
+						Цвет датчика: Сложный пакет датчиков<br>
+						Блок датчика электромагнитного поля<br>
+						Радар<br>
+						Инфракрасный рецептор
+					</td>
+					<td><input class="price"  type="text" name="model2_price" value="3800 кредитов" size="10" readonly></td>
+				</tr>
+
+				<tr>
+					<td><input id="model3" type="checkbox" name="select" onclick=calc()></td>
+					<td class="model">R2-5</td>
+					<td><a class="galery" href="img/r2-5.jpg"> <img src="img/r2-5.jpg" width="100"></td>
+					<td>Высота: 1 метр<br>
+						Оснащение: акустический сигнализатор, огнетушитель, голографический проектор/рекордер, выдвижная рабочая рука, выдвижной тяжелый захват, маленькая циркулярная пила, трехколесные ножки
+					</td>
+					<td><input class="price"  type="text" name="model3_price" value="4700 кредитов" size="10" readonly></td>
+				</tr>
+
+				<tr>
+					<td><input id="model4" type="checkbox" name="select" onclick=calc()></td>
+					<td class="model">R8-B7</td>
+					<td><a class="galery" href="img/r8-b7.jpg"> <img src="img/r8-b7.jpg" width="100"></td>
+					<td>Высота: 0,96 метра<br>
+						Цвет сенсора: фиолетовый<br>
+						Цвет покрытия: фиолетовый, серый, желтый<br>
+						Оснащение: Пакет диагностики, компенсатор окружающей среды (вакуум), огнетушитель, эвристический процессор, внутреннее хранилище (2 кг), заблокированный доступ, магнитные ножки, голографический проектор/рекодер, ингибитор ржавчины, крепление для инструмента x4, инструментарий, сварочный лазер/резак
+					</td>
+					<td><input class="price"  type="text" name="model4_price" value="4900 кредитов" size="10" readonly></td>
+				</tr>
+
+				<tr>
+					<td colspan="5">Итого: <input id="sum" type="number" name="sum" value="0" size="15" readonly></input></td>
+				</tr>
+			</table>
+			</form>
+		</div>
+
+		<div id="contacts">Если Вас заинтересовала какая-либо модель - <a href="contacts.html#form" title="Контакты" target="_self">оставьте заявку на заказ</a></div>
+	</body>
+</html>
