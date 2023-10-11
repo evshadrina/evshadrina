@@ -1,0 +1,63 @@
+<html>
+<head>
+<HTML>
+<head>
+ <title>КАТАЛОГ</title>
+</head>
+ 
+<script>
+function plus(n) {
+ var cena=document.getElementById("cena_"+n);
+ var col=document.getElementById("col_"+n);
+ var cenap=document.getElementById("cenap_"+n);
+ var itog=document.getElementById("itog");
+ 
+ col.innerHTML=1+Number(col.innerHTML);
+ cenap.innerHTML=Number(cenap.innerHTML)+Number(cena.innerHTML);
+ itog.innerHTML=Number(itog.innerHTML)+Number(cena.innerHTML);
+}
+function minus(n) {
+ var cena=document.getElementById("cena_"+n);
+ var col=document.getElementById("col_"+n);
+ var cenap=document.getElementById("cenap_"+n);
+ var itog=document.getElementById("itog");
+ 
+ if(col.innerHTML!="0") {
+  col.innerHTML=Number(col.innerHTML)-1;
+  cenap.innerHTML=Number(cenap.innerHTML)-Number(cena.innerHTML);
+  itog.innerHTML=Number(itog.innerHTML)-Number(cena.innerHTML);
+ }
+}
+ 
+</script>
+ 
+<body>
+ 
+ <table width=100% border=1>
+  <tr><td align="center">ТОВАР</td><td align="center">ЦЕНА ЗА 1шт</td><td align="center">КОЛИЧЕСТВО</td><td align="center">ЦЕНА ЗА ВСЁ</td></tr>
+ 
+  <tr>
+   <td align="center">IPhone XI</td>
+   <td align="center"><b id="cena_1">100000</b> руб.</td>
+   <td align="center"><b onclick="plus(1)">[+]</b> <b id="col_1">0</b> шт. <b onclick="minus(1)">[-]</b></td>
+   <td align="center"><b id="cenap_1">0</b> руб.</td>
+  </tr>
+  
+  <tr>
+   <td align="center">Google Pixel</td>
+   <td align="center"><b id="cena_2">50000</b> руб.</td>
+   <td align="center"><b onclick="plus(2)">[+]</b> <b id="col_2">0</b> шт. <b onclick="minus(2)">[-]</b></td>
+   <td align="center"><b id="cenap_2">0</b> руб.</td>
+  </tr>
+  
+  <tr>
+   <td align="center">LG G5</td>
+   <td align="center"><b id="cena_3">20000</b> руб.</td>
+   <td align="center"><b onclick="plus(3)">[+]</b> <b id="col_3">0</b> шт. <b onclick="minus(3)">[-]</b></td>
+   <td align="center"><b id="cenap_3">0</b> руб.</td>
+  </tr>
+ </table>
+ 
+ ИТОГО:<b id="itog">0</b> руб.
+</body>
+</HTML>
