@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<script type="text/javascript">
+<!--
+function CurrencyFormatted(amount) {
+   var i = parseFloat(amount.replace(/,/g, '.'));
+   if(isNaN(i)) return '0.00';
+   var minus = '';
+   if(i < 0) { minus = '-'; }
+   i = Math.abs(i);
+   i = parseInt((i + .005) * 100)/100;
+   s = new String(i);
+   if(s.indexOf('.') < 0) { s += '.00'; }
+   if(s.indexOf('.') == (s.length - 2)) { s += '0'; }
+   s = minus + s;
+   return s;
+}
+document.writeln('12,006 -&gt; '+CurrencyFormatted('12,006')+' руб');
+
+document.writeln('0,3 -&gt; '+CurrencyFormatted('0,3')+' руб');
+document.writeln('5 -&gt; '+CurrencyFormatted('5')+' руб');
+// -->
+
+// Также можно воспользоваться методом toFixed: Метод toFixed возвращает число в виде строки с заданным числом цифр после запятой. 
+// Разделитель числа точка(.)
+
+document.writeln((3.2489).toFixed(2)); //3.25
+document.writeln(" \n");
+document.writeln(Math.PI.toFixed(4)); //3.1416 - число с 4 знаками после запятой
+
+document.writeln((12.006).toFixed(2)); //12.01
+
+document.writeln((0.3).toFixed(2)); //0.30
+document.writeln((5).toFixed(2)); //5.00
+
+</script>
+</body>
+</html>
