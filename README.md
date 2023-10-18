@@ -21,6 +21,9 @@ https://evshadrina.github.io/evshadrina/cacl.html
 https://evshadrina.github.io/evshadrina/ugad.html
 https://evshadrina.github.io/evshadrina/catalog_js.html
 https://evshadrina.github.io/evshadrina/js_table.html
+https://evshadrina.github.io/evshadrina/округЦены.html
+
+
 
 
 
