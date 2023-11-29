@@ -1,5 +1,8 @@
+РабочаяВЕДОМОСТЬ_29_11 https://disk.yandex.ru/d/VnUt5DBalmstCw 
+
 29 ноября семинары с 11-10 Ссылка на видеовстречу: https://telemost.yandex.ru/j/62477023293944718530716766526624603367
-https://disk.yandex.ru/d/VnUt5DBalmstCw  -!! РабочаяВЕДОМОСТЬ_29_11
+Запись 29_11 https://disk.yandex.ru/d/r65oATAIjMVJ0Q
+
 
 22 ноября семинары c 11-10 Ссылка на видеовстречу: https://telemost.yandex.ru/j/62477023293944718530716766526624603367
 запись 22_11 тут https://disk.yandex.ru/d/jtCBkQznouJJKg
