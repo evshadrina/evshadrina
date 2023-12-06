@@ -1,4 +1,5 @@
-6 декабря защита кр2 Ссылка на видеовстречу: https://telemost.yandex.ru/j/62477023293944718530716766526624603367
+6 декабря защита кр2 Ссылка на видеовстречу: https://telemost.yandex.ru/j/62477023293944718530716766526624603367\
+Ведомость 6 дек https://disk.yandex.ru/d/VnUt5DBalmstCw
 
 РабочаяВЕДОМОСТЬ_29_11 https://disk.yandex.ru/d/VnUt5DBalmstCw 
 
