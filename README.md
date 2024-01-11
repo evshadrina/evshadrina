@@ -2,7 +2,9 @@
 Ссылка на видеовстречу: https://telemost.yandex.ru/j/81507152103295765500560555124132809934
 
 
+_____________________________________________________________
 
+Основы веб технологий
 https://evshadrina.github.io/evshadrina/sem1.html
 https://evshadrina.github.io/evshadrina/cacl.html
 https://evshadrina.github.io/evshadrina/ugad.html
