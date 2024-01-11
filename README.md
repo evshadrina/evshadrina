@@ -3,14 +3,14 @@
 
 https://us02web.zoom.us/j/89278869899
 запись лекции https://us02web.zoom.us/rec/share/z5iZMS5amLwT23Jj1ko8rvl5tQ1WudUnbX5hZ1GEpOAHntQpvK8wMQo2TLF9P-E-.qae-Qz7GApVot8Dg
-Код доступа:=QM6XF&*
+Код доступа:=QM6XF&*<br>
 
-Презентация Лекции1 лежит тут-https://disk.yandex.ru/d/D7lkkIFljMXQuw
-Полезные ссылки для установки ПО: 
-https://www.python.org/downloads/
-https://www.jetbrains.com/ru-ru/pycharm/download/?section=windows
-https://docs.djangoproject.com/en/5.0/
-https://code.visualstudio.com/docs/python/tutorial-django - установка django
+Презентация Лекции1 лежит тут-https://disk.yandex.ru/d/D7lkkIFljMXQuw<br>
+Полезные ссылки для установки ПО: <br> 
+https://www.python.org/downloads/ <br>
+https://www.jetbrains.com/ru-ru/pycharm/download/?section=windows<br>
+https://docs.djangoproject.com/en/5.0/<br>
+https://code.visualstudio.com/docs/python/tutorial-django - установка django<br>
 
 _____________________________________________________________
 
