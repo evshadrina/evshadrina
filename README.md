@@ -2,6 +2,8 @@
 Ссылка на видеовстречу: https://telemost.yandex.ru/j/81507152103295765500560555124132809934 - лимит 40 чел ПЕРЕХОДИМ в ЗУММ
 
 https://us02web.zoom.us/j/89278869899
+запись лекции https://us02web.zoom.us/rec/share/z5iZMS5amLwT23Jj1ko8rvl5tQ1WudUnbX5hZ1GEpOAHntQpvK8wMQo2TLF9P-E-.qae-Qz7GApVot8Dg
+Код доступа:=QM6XF&*
 
 
 _____________________________________________________________
