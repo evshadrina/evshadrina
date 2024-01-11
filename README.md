@@ -11,6 +11,7 @@ https://www.python.org/downloads/ <br>
 https://www.jetbrains.com/ru-ru/pycharm/download/?section=windows<br>
 https://docs.djangoproject.com/en/5.0/<br>
 https://code.visualstudio.com/docs/python/tutorial-django - установка django<br>
+Курс по html/css (кто не изучал) https://stepik.org/38218
 
 Семинары группа1 18 янв с 9-30 до 12-30  https://telemost.yandex.ru/j/49220505736946586604140406788822442805<br>
 Семинары группа2 18 янв с 13-00 до 16-20 https://telemost.yandex.ru/j/49220505736946586604140406788822442805
