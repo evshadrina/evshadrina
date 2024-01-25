@@ -1,6 +1,12 @@
-Лекция2 25.01.2024 Разработка веб приложений
+
+Формула оценивания в программе https://www.hse.ru/edu/courses/575422299
+__________
+
+Лекция2 25.01.2024 Разработка веб приложений - 
 https://us02web.zoom.us/j/81570538909
 Идентификатор конференции: 815 7053 8909
+запись тут https://us02web.zoom.us/rec/share/_Ric83Ucfa7oEwnrheSLyUlS_EVVytb47VGoCKWMhoNf966ROh9i_OG-UYLcgcFr.x5EdqiyU2pmPUMxO
+Код доступа:tSuA=n7@
 
 ___________________________________
 ДЗ на семинар 1 фев 2024 Создать новое приложение WeekDay - на каждый день недели свой urls. weekDay/monday -  вернет Пн-день тяжелый, weekDay/tuesday - буду учится.  weekDay/sunday- выходной
