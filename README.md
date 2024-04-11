@@ -1,3 +1,5 @@
+11 апреля  Лекция_ФОРМЫ с 9-30 до 10-50 https://telemost.yandex.ru/j/21524740097987
+_____________________________________________
 4 АПРЕЛЯ 2024 СЕМИНАР ГР 1,2  С 9-30 Ссылка на видеовстречу: https://telemost.yandex.ru/j/54586734150746 <br>
 архив проекта Фильмы-Feedback https://disk.yandex.ru/d/kbsoE3t-1Z65rA <br>
 архив проекта Сказки https://disk.yandex.ru/d/mO9blJSZUbObTA <br>
