@@ -1,6 +1,6 @@
 11 апреля  Лекция_6_ФОРМЫ_Фильтры с 9-30 до 10-50 https://telemost.yandex.ru/j/21524740097987 <br>
 запись тут https://disk.yandex.ru/d/uzuZaRC5Qq0fTA <br>
-новая версия архива с приложением Feedback - исправила ошибку поиска - создала новое поле mark тип Integer - фильтр с условием AND <ик>
+новая версия архива с приложением Feedback - исправила ошибку поиска - создала новое поле mark тип Integer - фильтр с условием AND <br>
 x = Feedback.objects.filter(mark__gte=5) & Feedback.objects.filter(mark__lte=10)
 _____________________________________________
 4 АПРЕЛЯ 2024 СЕМИНАР ГР 1,2  С 9-30 Ссылка на видеовстречу: https://telemost.yandex.ru/j/54586734150746 <br>
