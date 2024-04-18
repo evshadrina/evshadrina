@@ -1,4 +1,5 @@
-18 апр 2024 семинар гр1,2 с 9-30 https://telemost.yandex.ru/j/54586734150746 
+18 апр 2024 семинар гр1,2 с 9-30 https://telemost.yandex.ru/j/54586734150746 <br>
+запись тут https://disk.yandex.ru/d/MVBWMouWeOfMNA
 ________________________________________________________________________________
 11 апреля  Лекция_6_ФОРМЫ_Фильтры с 9-30 до 10-50 https://telemost.yandex.ru/j/21524740097987 <br>
 запись и архив тут https://disk.yandex.ru/d/uzuZaRC5Qq0fTA <br>
