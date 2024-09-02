@@ -1,3 +1,9 @@
+Основы веб технологий, майнор 2 курс 4 сентября(СР) группа4 11:10 - 12:30, группа5 13:00 - 14:20
+Ссылка на видеовстречу: https://telemost.yandex.ru/j/23461418044016
+
+
+
+
 Основы веб технологий
 https://evshadrina.github.io/evshadrina/sem1.html
 https://evshadrina.github.io/evshadrina/cacl.html
