@@ -1,8 +1,8 @@
 Основы веб технологий, майнор 2 курс 4 сентября(СР) группа1 11:10 - 12:30, группа2 13:00 - 14:20<br>
 Ссылка на видеовстречу: https://telemost.yandex.ru/j/23461418044016 <br>
 запись сем1 4 сент гр1 https://disk.yandex.ru/d/Sac3haW6f4giGQ <br>
-Запись сем2 11 сент https://disk.yandex.ru/d/rFHrQtvrKGnQAA
-
+Запись сем2 11 сент https://disk.yandex.ru/d/rFHrQtvrKGnQAA <br>
+Запись сем3 18 сент https://disk.yandex.ru/d/IV4T4ZFwN_lUSQ
 
 
 
