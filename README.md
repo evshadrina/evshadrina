@@ -2,7 +2,8 @@
 Ссылка на видеовстречу: https://telemost.yandex.ru/j/23461418044016 <br>
 запись сем1 4 сент гр1 https://disk.yandex.ru/d/Sac3haW6f4giGQ <br>
 Запись сем2 11 сент https://disk.yandex.ru/d/rFHrQtvrKGnQAA <br>
-Запись сем3 18 сент https://disk.yandex.ru/d/IV4T4ZFwN_lUSQ
+Запись сем3 18 сент https://disk.yandex.ru/d/IV4T4ZFwN_lUSQ <br>
+Запись сем3 24 сент https://disk.yandex.ru/d/07dQOuETIxyw_g
 
 
 
