@@ -3,7 +3,9 @@
 запись сем1 4 сент гр1 https://disk.yandex.ru/d/Sac3haW6f4giGQ <br>
 Запись сем2 11 сент https://disk.yandex.ru/d/rFHrQtvrKGnQAA <br>
 Запись сем3 18 сент https://disk.yandex.ru/d/IV4T4ZFwN_lUSQ <br>
-Запись сем3 24 сент https://disk.yandex.ru/d/07dQOuETIxyw_g
+Запись сем4 24 сент https://disk.yandex.ru/d/07dQOuETIxyw_g
+примеры Котов в архивах Cat.zip  примеры таблиц семинар3.zip
+
 
 
 
