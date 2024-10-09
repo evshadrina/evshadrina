@@ -5,6 +5,11 @@
 Запись сем3 18 сент https://disk.yandex.ru/d/IV4T4ZFwN_lUSQ <br>
 Запись сем4 24 сент https://disk.yandex.ru/d/07dQOuETIxyw_g
 примеры Котов в архивах Cat.zip  примеры таблиц семинар3.zip
+запись сем 2 окти 9 окт
+https://disk.yandex.ru/d/rEjjzDkTIS9u-Q
+пример сайта с навиг и Задачей ПримерИтог.zip
+
+
 
 
 
