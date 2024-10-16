@@ -10,6 +10,8 @@ https://disk.yandex.ru/d/rEjjzDkTIS9u-Q
 пример сайта с навиг и Задачей ПримерИтог.zip
 гр1 посмотреть запись 9 окт с гр2 - тк успели больше  <br>
 сем 16 окт - запись как разместить на github(пункт13)  свой сайт https://disk.yandex.ru/d/DkpuXLCOGpG1UA
+https://evshadrina.github.io/itog/ <br>
+https://evshadrina.github.io/itog_ex/ <br>
 
 
 
