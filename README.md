@@ -9,6 +9,7 @@
 https://disk.yandex.ru/d/rEjjzDkTIS9u-Q
 пример сайта с навиг и Задачей ПримерИтог.zip
 гр1 посмотреть запись 9 окт с гр2 - тк успели больше 
+сем 16 окт - запись как разместить на github(пункт13)  свой сайт https://disk.yandex.ru/d/DkpuXLCOGpG1UA
 
 
 
