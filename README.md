@@ -16,6 +16,8 @@ https://evshadrina.github.io/itog_ex/ <br>
 Рабочая ведомость_ShadrinaEV_13nov.xlsx  - оценки за КР1 от 13 ноя - дедлайн КР1 <br>
 
 https://disk.yandex.ru/d/rEjjzDkTIS9u-Q
+Запись  и Ведомоссть 20 нояб https://disk.yandex.ru/d/EXlSrJ95EuoYcw
+
 
 
 
