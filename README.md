@@ -12,11 +12,10 @@ https://disk.yandex.ru/d/rEjjzDkTIS9u-Q
 сем 16 окт - запись как разместить на github(пункт13)  свой сайт https://disk.yandex.ru/d/DkpuXLCOGpG1UA
 https://evshadrina.github.io/itog/ <br>
 https://evshadrina.github.io/itog_ex/ <br>
-
 Рабочая ведомость_ShadrinaEV_13nov.xlsx  - оценки за КР1 от 13 ноя - дедлайн КР1 <br>
-
 https://disk.yandex.ru/d/rEjjzDkTIS9u-Q
-Запись  и Ведомоссть 20 нояб https://disk.yandex.ru/d/EXlSrJ95EuoYcw
+<br>
+20 нояб Запись Семинара и Ведомость от 20 нояб https://disk.yandex.ru/d/EXlSrJ95EuoYcw
 
 
 
