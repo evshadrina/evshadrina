@@ -17,6 +17,10 @@ https://disk.yandex.ru/d/rEjjzDkTIS9u-Q
 <br>
 20 нояб Запись Семинара и Ведомость от 20 нояб https://disk.yandex.ru/d/EXlSrJ95EuoYcw
 
+27 ноября 2024  Добавила поле Поиск пример тут <br>
+https://evshadrina.github.io/master_class-filter/0650_api_togler.html <br>
+запись семинара https://disk.yandex.ru/d/8Uot8XprcoARvQ
+
 
 
 
