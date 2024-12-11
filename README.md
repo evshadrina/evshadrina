@@ -22,6 +22,11 @@ https://evshadrina.github.io/master_class-filter/0650_api_togler.html <br>
 запись семинара https://disk.yandex.ru/d/8Uot8XprcoARvQ
 
 
+Ведомость 11 дек_2024 https://disk.yandex.ru/d/VnUt5DBalmstCw
+18 дек в 9-30 экз для тех кто хочет повышать. оценка пересчитывается по ф-ле экзамена.
+сдают кр2 те не успели 11 дек: Журавлев Черников Николюк Жильцов
+
+
 
 
 
