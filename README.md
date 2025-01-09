@@ -1,6 +1,6 @@
 09.01.2025 с 9-30 до 10-50 Лекция1 Разработка веб приложений <br>
 Ссылка на видеовстречу: https://telemost.yandex.ru/j/3017853851 <br>
-Запись Лекции1 и преза1 тут https://disk.yandex.ru/d/D7lkkIFljMXQuw
+Запись Лекции1 и преза1  Список гр1 гр2 семинары Шадрина ЕВ тут https://disk.yandex.ru/d/D7lkkIFljMXQuw
 <br><br><br><br><br><br><br><br>
 
 
