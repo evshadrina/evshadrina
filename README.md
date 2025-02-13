@@ -1,8 +1,8 @@
 16/01/2025 Семинар Разработка веб приложений гр1 с 9-30 до 12-30 семинар гр2 с 13-00 до 16-00 <br>
 ссыль https://telemost.yandex.ru/j/28467620694436 <br>
 Запись семинар1, архивы проектов App1 App2 https://disk.yandex.ru/d/YMpG13qB-qU9pg <br>
-Семинар2 30/01/2025 тут https://disk.yandex.ru/d/XEQTe_gkXe7Fbg
-Семинар3 13/02/2025,  архив с пары1 111.rar, signs/show_all() -> show_one() тут https://disk.yandex.ru/d/aaXmJSWzWhMuLg 
+Семинар2 30/01/2025 тут https://disk.yandex.ru/d/XEQTe_gkXe7Fbg <br>
+Семинар3 13/02/2025,  архив с пары1 111.rar, signs/show_all() -> show_one() тут https://disk.yandex.ru/d/aaXmJSWzWhMuLg  <br>
 ___________________________________________________________________
 16.01.2025 и далее все даты в 3 модуле для всех Юристов семинар Основы программирования на Питон <br>
 23Ю1,3 в 18-10 <br>
