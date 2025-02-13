@@ -2,7 +2,7 @@
 ссыль https://telemost.yandex.ru/j/28467620694436 <br>
 Запись семинар1, архивы проектов App1 App2 https://disk.yandex.ru/d/YMpG13qB-qU9pg <br>
 Семинар2 30/01/2025 тут https://disk.yandex.ru/d/XEQTe_gkXe7Fbg
-Семинар3 13/02/2025 , signs/show_all() -> show_one() тут https://disk.yandex.ru/d/aaXmJSWzWhMuLg 
+Семинар3 13/02/2025,  архив с пары1 111.rar, signs/show_all() -> show_one() тут https://disk.yandex.ru/d/aaXmJSWzWhMuLg 
 ___________________________________________________________________
 16.01.2025 и далее все даты в 3 модуле для всех Юристов семинар Основы программирования на Питон <br>
 23Ю1,3 в 18-10 <br>
