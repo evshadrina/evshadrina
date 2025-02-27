@@ -4,7 +4,7 @@
 Семинар2 30/01/2025 тут https://disk.yandex.ru/d/XEQTe_gkXe7Fbg <br>
 Семинар3 13/02/2025,  архив с пары1 111.rar, signs/show_all() -> show_one() тут https://disk.yandex.ru/d/aaXmJSWzWhMuLg  <br>
 Лекция2 23/01/2025 8-00(Шаблоны), Лекция3 20/02/2025 9-30(Шаблоны_продолжение_сложные_структуры/Навигация),Преза Лекция2, семинар 13/02/25 гр2 14-20 тут https://disk.yandex.ru/d/a3cqQFuFMWdFmA <br>
-Семинар 27/05/2025 гр и гр 2(GET.get()  и вариант 2 через шаблоны), пример архива с семинара project_01.zip  https://disk.yandex.ru/d/ZU7uiLHNykaB7w <br>
+Семинар 27/05/2025 гр и гр 2(GET.get()  и вариант 2 через шаблоны), пример архива с семинара project_1.zip  https://disk.yandex.ru/d/ZU7uiLHNykaB7w <br>
 кто не был подсказки для решения Алг_задачи тут https://metanit.com/python/django/3.4.php <br>
 
 ___________________________________________________________________
