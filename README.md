@@ -1,4 +1,7 @@
 презентация Django с лекции 15 мая 2025 финальная тут https://disk.yandex.ru/i/j-_4R7GKvWbzwQ <br>
+https://help.pythonanywhere.com/pages/DeployExistingDjangoProject/  <br>
+https://help.pythonanywhere.com/pages/DjangoStaticFiles/  <br>
+
 22 мая семинары по расписанию <br>
 29 мая ВМЕСТО ЛЕКЦИИ - СЕМИНАР гр1 9-30 12-30, гр2  13-00 до 16-00 <br>
 
