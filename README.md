@@ -1,3 +1,5 @@
+22мая ведомостьШадрина ЕВ https://disk.360.yandex.ru/i/0jsbEt-cf4omlA
+_____________________________________________
 презентация Django с лекции 15 мая 2025 финальная тут https://disk.yandex.ru/i/j-_4R7GKvWbzwQ <br>
 https://help.pythonanywhere.com/pages/DeployExistingDjangoProject/  <br>
 https://help.pythonanywhere.com/pages/DjangoStaticFiles/  <br>
