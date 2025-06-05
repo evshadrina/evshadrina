@@ -1,3 +1,5 @@
+5 июня ведомость Защита с ОПОЗДАНИЕМ см тут https://disk.360.yandex.ru/i/807U4ZL2dLnIlg
+______________________
 29 мая ведомостьШадрина ЕВ https://disk.360.yandex.ru/i/oajwwYg8fgK2xg
 
 22мая ведомостьШадрина ЕВ https://disk.360.yandex.ru/i/0jsbEt-cf4omlA
