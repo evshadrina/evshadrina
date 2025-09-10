@@ -7,7 +7,7 @@ ______________________________________________________________________
 09/09/25 Запись встречи «Основы веб технологий, майнор 2 курс среды » <br>
 Запись началась 10.09.2025 в 11:11 <br>
 Ссылка на видео: https://yadi.sk/d/GW-DoxNWTmnO7g <br>
-Ссылка на аудио: https://yadi.sk/d/7ZknfMKExgbpuA <br>
+Ссылка на аудио: https://yadi.sk/d/7ZknfMKExgbpuA <br> 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
