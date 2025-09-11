@@ -2,12 +2,15 @@
 Основы веб технологий, майнор 2 курс 3 сентября(СР) группа5 11:10 - 12:30, группа6 13:00 - 14:20<br>
 Ссылка на видеовстречу:https://telemost.360.yandex.ru/j/5174043032 <br>
 преза HTML https://disk.360.yandex.ru/i/ordQgbQtgmudaA <br>
-запись сем1 3 сенября 2025 https://disk.360.yandex.ru/d/k0DECZGIy12VEg
+запись сем1 3 сенября 2025 https://disk.360.yandex.ru/d/k0DECZGIy12VEg <br>
 ______________________________________________________________________
 10/09/25 Запись встречи «Основы веб технологий, майнор 2 курс среды » <br>
 Запись началась 10.09.2025 в 11:11 <br>
 Ссылка на видео: https://yadi.sk/d/GW-DoxNWTmnO7g <br>
 Ссылка на аудио: https://yadi.sk/d/7ZknfMKExgbpuA <br> 
+Запись началась 10.09.2025 в 12:59 <br>
+Ссылка на видео: https://yadi.sk/d/xA5oQS631kq5vQ <br>
+Ссылка на аудио: https://yadi.sk/d/5NzT3desDvapZw <br>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
