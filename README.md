@@ -16,7 +16,12 @@ ______________________________________________________________________
 Ссылка на видео: https://yadi.sk/d/xA5oQS631kq5vQ <br>
 Ссылка на аудио: https://yadi.sk/d/5NzT3desDvapZw <br>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
+Запись встречи «Основы веб технологий, майнор 2 курс среды » <br>
+Запись началась 17.09.2025 в 11:12 <br>
+Ссылка на видео: https://yadi.sk/d/bzvOOfLyTaGWqQ <br>
+Ссылка на аудио: https://yadi.sk/d/UwzQpS517Cd4gw <br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
