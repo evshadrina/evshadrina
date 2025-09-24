@@ -21,6 +21,8 @@ ______________________________________________________________________
 Запись началась 17.09.2025 в 11:12 <br>
 Ссылка на видео: https://yadi.sk/d/bzvOOfLyTaGWqQ <br>
 Ссылка на аудио: https://yadi.sk/d/UwzQpS517Cd4gw <br>
+24/09 11-10  майнор Ссылка на видео: https://yadi.sk/d/MupEGQXBN72jig
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
