@@ -22,7 +22,8 @@ ______________________________________________________________________
 24/09 11-10  майнор Ссылка на видео1: https://yadi.sk/d/MupEGQXBN72jig <br>
 ведео2 https://disk.360.yandex.ru/d/MupEGQXBN72jig <br>
 24/09 13-00 https://disk.360.yandex.ru/d/9RSkj_0Lx1sd0g <br>
-01/10 Ссылка на видео: https://yadi.sk/d/ivSJnpe2vwTG5A
+01/10 Ссылка на видео: 11.10 https://yadi.sk/d/ivSJnpe2vwTG5A <br>
+13.00 Ссылка на видео: https://yadi.sk/d/arXaAK7fDExklQ
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
