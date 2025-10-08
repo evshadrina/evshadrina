@@ -24,7 +24,8 @@ ______________________________________________________________________
 24/09 13-00 https://disk.360.yandex.ru/d/9RSkj_0Lx1sd0g <br>
 01/10 Ссылка на видео: 11.10 https://yadi.sk/d/ivSJnpe2vwTG5A <br>
 13.00 Ссылка на видео: https://yadi.sk/d/arXaAK7fDExklQ <br>
-8/10/2025 11-10 Ссылка на видео: https://yadi.sk/d/vsMEMbtsdlciGQ
+8/10/2025 11-10 Ссылка на видео: https://yadi.sk/d/vsMEMbtsdlciGQ <br>
+8/10/2025 13.00 Ссылка на видео: https://yadi.sk/d/u0J04_AXzRFpjA 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
