@@ -1,5 +1,8 @@
-------------
+1 ноября у кого возникает ошибка CORS при запуск через !проводник! - открывыйте ваш сайт через PyCharm или VSCode - Ошибки не будет!
 
+Access to fetch at 'file:///D:/shop.json' from origin 'null' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: chrome, chrome-extension, chrome-untrusted, data, http, https, isolated-app.
+
+------------
 Запись встречи «Основы веб технологий, майнор 2 курс среды » <br>
 группа в 11-10 12/11/2025 
 Ссылка на видео: https://yadi.sk/d/Qyvhu1i4YdQolQ < br>
