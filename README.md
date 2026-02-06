@@ -1,5 +1,5 @@
 05/02/2026 9-30 до 12-30  семинары в группе1,запись тут https://disk.360.yandex.ru/d/GbJe0pm4XdHWoQ
-05/02/2026 с 13-00 до 16-00 семинары в группе2  Шадриной ЕВ ссылка https://telemost.360.yandex.ru/j/0216861805 <br>
+05/02/2026 с 13-00 до 16-00 семинары в группе2  Шадриной ЕВ ссылка https://telemost.360.yandex.ru/j/0216861805 <br> Запись https://telemost.360.yandex.ru/j/0216861805
 
 Запись СЕминар1  28/01/2026 Установка django/ создание проекта/ приложения App1/hello/ Cacl/2+3   https://disk.360.yandex.ru/d/zLdC5DHauIxT7w
 
