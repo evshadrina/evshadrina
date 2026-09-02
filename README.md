@@ -7,7 +7,7 @@
 
 Семинары группа4,5 Ссылка постоянная: https://telemost.360.yandex.ru/j/626991319
 <br>запись 02/09/2026 гр4 https://telemost.360.yandex.ru/j/6269913190
-<br>запись 02/09/2026 гр5 
+<br>запись 02/09/2026 гр5 https://yadi.sk/d/0h86SPbHByW5lQ
 
 
 
