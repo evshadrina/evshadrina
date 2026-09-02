@@ -6,8 +6,8 @@
 список групп из ЛМС тут https://disk.360.yandex.ru/i/veJ_J7Hl8UPHKw <br>
 
 Семинары группа4,5 Ссылка постоянная: https://telemost.360.yandex.ru/j/626991319
-запись 02/09/2026 гр4 https://telemost.360.yandex.ru/j/6269913190
-запись 02/09/2026 гр5 
+<br>запись 02/09/2026 гр4 https://telemost.360.yandex.ru/j/6269913190
+<br>запись 02/09/2026 гр5 
 
 
 
