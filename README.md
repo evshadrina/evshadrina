@@ -9,6 +9,12 @@
 <br>запись 02/09/2026 гр4 https://disk.360.yandex.ru/d/oJGMPp1Yubt70Q
 <br>запись 02/09/2026 гр5 https://yadi.sk/d/0h86SPbHByW5lQ
 
+запись семинаров 9/09, доступны с аккаунта Hse <br>
+гр4 https://yadi.sk/d/-5P5iRVvnswVqA 
+<br>
+гр 5 Ссылка на видео: https://yadi.sk/d/wwuAbRTdieOzQQ
+
+
 
 
 
