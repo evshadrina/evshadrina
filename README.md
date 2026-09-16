@@ -13,6 +13,7 @@
 гр4 https://yadi.sk/d/-5P5iRVvnswVqA 
 <br>
 гр 5 Ссылка на видео: https://yadi.sk/d/wwuAbRTdieOzQQ
+<br> запись 16/09 гр 4 Ссылка на видео: https://yadi.sk/d/nnDzxay_OwrZfw
 
 
 
