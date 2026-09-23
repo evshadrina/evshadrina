@@ -3,7 +3,7 @@
 Шадрина Елена Викторовна расписание https://www.hse.ru/org/persons/202016/timetable <br>
 
 Все материалы курса на ходяться в репозитории OWT_2026 https://github.com/evshadrina/OWT_2026 <br>
-список групп из ЛМС тут https://disk.360.yandex.ru/i/veJ_J7Hl8UPHKw <br>
+список групп из ЛМС тут https://disk.360.yandex.ru/i/3G-46b2FvCyOuA<br>
 
 <h1>Семинары группа4,5 Ссылка постоянная: https://telemost.360.yandex.ru/j/6269913190 </h1>
 <br>запись 02/09/2026 гр4 https://disk.360.yandex.ru/d/oJGMPp1Yubt70Q
